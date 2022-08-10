@@ -1,0 +1,15 @@
+/Users/grigorijpecenkin/Desktop/Sem0608/Homework/Lesson01/Ex06/bin/Debug/net6.0/Ex06
+/Users/grigorijpecenkin/Desktop/Sem0608/Homework/Lesson01/Ex06/bin/Debug/net6.0/Ex06.deps.json
+/Users/grigorijpecenkin/Desktop/Sem0608/Homework/Lesson01/Ex06/bin/Debug/net6.0/Ex06.runtimeconfig.json
+/Users/grigorijpecenkin/Desktop/Sem0608/Homework/Lesson01/Ex06/bin/Debug/net6.0/Ex06.dll
+/Users/grigorijpecenkin/Desktop/Sem0608/Homework/Lesson01/Ex06/bin/Debug/net6.0/Ex06.pdb
+/Users/grigorijpecenkin/Desktop/Sem0608/Homework/Lesson01/Ex06/obj/Debug/net6.0/Ex06.csproj.AssemblyReference.cache
+/Users/grigorijpecenkin/Desktop/Sem0608/Homework/Lesson01/Ex06/obj/Debug/net6.0/Ex06.GeneratedMSBuildEditorConfig.editorconfig
+/Users/grigorijpecenkin/Desktop/Sem0608/Homework/Lesson01/Ex06/obj/Debug/net6.0/Ex06.AssemblyInfoInputs.cache
+/Users/grigorijpecenkin/Desktop/Sem0608/Homework/Lesson01/Ex06/obj/Debug/net6.0/Ex06.AssemblyInfo.cs
+/Users/grigorijpecenkin/Desktop/Sem0608/Homework/Lesson01/Ex06/obj/Debug/net6.0/Ex06.csproj.CoreCompileInputs.cache
+/Users/grigorijpecenkin/Desktop/Sem0608/Homework/Lesson01/Ex06/obj/Debug/net6.0/Ex06.dll
+/Users/grigorijpecenkin/Desktop/Sem0608/Homework/Lesson01/Ex06/obj/Debug/net6.0/refint/Ex06.dll
+/Users/grigorijpecenkin/Desktop/Sem0608/Homework/Lesson01/Ex06/obj/Debug/net6.0/Ex06.pdb
+/Users/grigorijpecenkin/Desktop/Sem0608/Homework/Lesson01/Ex06/obj/Debug/net6.0/Ex06.genruntimeconfig.cache
+/Users/grigorijpecenkin/Desktop/Sem0608/Homework/Lesson01/Ex06/obj/Debug/net6.0/ref/Ex06.dll
